@@ -22,7 +22,7 @@ Flavor Fiesta: User-centered mobile app for food discovery, built with Ionic and
 
 🎮 Fun Facts
 
-Gaming Enthusiast: A longtime gamer and active Brawl Stars player!
+Gaming Enthusiast: A longtime gamer from shooters like CSGO or Valorant to Rocket League or Brawl Stars!
 
 Passionate about Design: Enjoy blending art and functionality to create intuitive, beautiful interfaces.
 
