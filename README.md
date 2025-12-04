@@ -1,33 +1,35 @@
 👋 Hi, I'm Manu!
 
-Welcome to my GitHub! I’m a UI/UX designer with a background in Human-Computer Interaction and Design (HCID) and a bachelor's in Industrial Design Engineering, where I graduated as valedictorian. I love designing user-centered, impactful experiences across digital platforms and have nearly 2 years of experience in UI/UX design for VR applications.
+Welcome to my GitHub! I’m a UI/UX designer with a background in Human-Computer Interaction and Design (HCID) and a bachelor's in Industrial Design Engineering, where I graduated as valedictorian. I love designing user-centered, impactful experiences across digital platforms and have 2 years of experience in UI/UX design.
 
-🔧 Technologies & Tools
+🔧 Skills & Toolkit
 
-Languages & Frameworks: JavaScript, TypeScript, Angular, Dart, HTML, CSS
+Design: Figma, Adobe XD, Miro, Design Systems, UCD, Prototyping, User Research
 
-Design Tools: Figma, Adobe XD, Illustrator
+Development: JavaScript, TypeScript, Dart, Angular, Ionic, React, HTML, CSS
 
-Frameworks: Ionic, React
+🌱 Key Projects
 
-Specializations: Prototyping, User Research, Human-Centered Design
+DeviceAgnostic: Exploring Device-Agnostic Design with Dart & Flutter
 
-🌱 Current Projects
+Full Stack Open: Full stack web development course exercises in React, Node.js, and more
 
-DeviceAgnostic: Exploring Device-Agnostic Design with Dart & Flutter.
+Flavor Fiesta: User-centered mobile app for food discovery, built with Ionic and Angular
 
-Full Stack Open: Full stack web development course exercises in React, Node.js, and more.
-
-Flavor Fiesta: User-centered mobile app for food discovery, built with Ionic and Angular.
+Design Systems for CMMS UI: Applying UCD principles to mobile applications (Master Thesis)
 
 🎮 Fun Facts
 
-Gaming Enthusiast: A longtime gamer from shooters like CSGO or Valorant to Rocket League or Brawl Stars!
+Committed & Curious: Always ready to learn and think in different ways
 
-Passionate about Design: Enjoy blending art and functionality to create intuitive, beautiful interfaces.
+Hobbies: Sports, motorcycle rides, and reading (including manga)
+
+Perspective: Empathetic, with a good sense of humor
+
+"The future is uncertain but promising."
 
 📫 Connect with Me
 
 LinkedIn: linkedin.com/in/manuel-hortelano-rodriguez/
 
-Thanks for stopping by! 😊 Let’s connect and create something amazing!
+Thanks for stopping by! 😊
