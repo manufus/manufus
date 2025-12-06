@@ -4,9 +4,9 @@ Welcome to my GitHub! I’m a UI/UX designer with a background in Human-Computer
 
 🔧 Skills & Toolkit
 
-Design: Figma, Adobe XD, Miro, Design Systems, UCD, Prototyping, User Research
+Design: Figma, Adobe XD, Design Systems, UCD, Prototyping, User Research
 
-Development: JavaScript, TypeScript, Dart, Angular, Ionic, React, HTML, CSS
+Development: React, Astro, JavaScript, TypeScript, Dart, Angular, Ionic, HTML, CSS
 
 🌱 Key Projects
 
@@ -18,13 +18,13 @@ Flavor Fiesta: User-centered mobile app for food discovery, built with Ionic and
 
 Design Systems for CMMS UI: Applying UCD principles to mobile applications (Master Thesis)
 
-🎮 Fun Facts
+🎮 About me
 
 Committed & Curious: Always ready to learn and think in different ways
 
 Hobbies: Sports, motorcycle rides, and reading (including manga)
 
-Perspective: Empathetic, with a good sense of humor
+Personality: Empathetic, with a good sense of humor
 
 "The future is uncertain but promising."
 
