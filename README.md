@@ -1,35 +1,31 @@
-👋 Hi, I'm Manu!
+# 👋 Hi, I'm Manu! 
 
-Welcome to my GitHub! I’m a UI/UX designer with a background in Human-Computer Interaction and Design (HCID) and a bachelor's in Industrial Design Engineering, where I graduated as valedictorian. I love designing user-centered, impactful experiences across digital platforms and have 2 years of experience in UI/UX design.
+**UX Engineer & Interaction Designer** bridging the gap between design and engineering. 
 
-🔧 Skills & Toolkit
+With a background in Human-Computer Interaction & Design (HCID) and an Industrial Design Engineering degree (Top Graduate 🏆), I combine engineering and design to create human-centered, digital experiences, from interaction research to implementation.
 
-Design: Figma, Adobe XD, Design Systems, UCD, Prototyping, User Research
+### 🛠️ Architecture & Toolkit
+* **UX Research & Analytics:** User-Centered Design (UCD), Usability Testing, Data-Driven Design, GA4, Hotjar / ContentSquare, Dovetail.
+* **Design Engineering & UI:** Semantic Design Tokens, Storybook, Figma, Task-Oriented UI, Human Factors.
+* **Frontend Engineering:** Astro, Preact (Islands Architecture), React, TypeScript, Tailwind CSS.
+* **Quality & Workflows:** Vitest (JSDOM), Biome (Strict Linting/Formatting), Agentic AI Orchestration.
+* **Cross-Platform:** Dart, Flutter, Ionic.
 
-Development: React, Astro, JavaScript, TypeScript, Dart, Angular, Ionic, HTML, CSS
+### 🚀 Featured Engineering & Design Work
 
-🌱 Key Projects
+* ✨ **[Portfolio V2 (Astro + Preact)](https://github.com/manufus/portfolio)** *An enterprise-grade portfolio architected for peak performance and accessibility, featuring a zero-defect TypeScript runtime, ethical UX patterns, and a highly optimized design system documented via MDX and Storybook.*
+* 🌐 **[Full Stack Open (React/Node.js)](https://fullstack-part3-otfg.onrender.com)**
+    *Comprehensive full-stack development implementations showcasing API design, state management, and modern JavaScript ecosystem mastery.*
+* 📱 **[Flavor Fiesta (Ionic/Angular)](https://github.com/manufus/flavorfiestaApp)**
+    *A user-centered mobile app for food discovery, proving deep understanding of Angular paradigms and hybrid mobile development.*
+* 📐 **[Device-Agnostic Design (Dart/Flutter)](https://device-agnostic.web.app/)**
+    *Exploratory repository tackling multi-device screen adaptation and cross-platform UI challenges using Flutter.*
 
-DeviceAgnostic: Exploring Device-Agnostic Design with Dart & Flutter
+### 🎮 Beyond the Code
+I don't just stare at screens. I believe the best digital experiences are inspired by the physical world. 
+* 🏍️ **Passions:** I love riding motorcycles, exercising in the gym, and reading (always making time for good manga).
+* 🤝 **Vibe:** Highly empathetic, pragmatically curious, and with a solid sense of humor. 
 
-Full Stack Open: Full stack web development course exercises in React, Node.js, and more
-
-Flavor Fiesta: User-centered mobile app for food discovery, built with Ionic and Angular
-
-Design Systems for CMMS UI: Applying UCD principles to mobile applications (Master Thesis)
-
-🎮 About me
-
-Committed & Curious: Always ready to learn and think in different ways
-
-Hobbies: Sports, motorcycle rides, and reading (including manga)
-
-Personality: Empathetic, with a good sense of humor
-
-"The future is uncertain but promising."
-
-📫 Connect with Me
-
-LinkedIn: linkedin.com/in/manuel-hortelano-rodriguez/
-
-Thanks for stopping by! 😊
+### 📫 Let's Connect
+* **Portfolio & Case Studies:** [manuelhortelano.com](https://manuelhortelano.com)
+* **LinkedIn:** [in/manuel-hortelano-rodriguez](https://www.linkedin.com/in/manuel-hortelano-rodriguez/)
