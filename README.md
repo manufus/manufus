@@ -21,11 +21,6 @@ With a background in Human-Computer Interaction & Design (HCID) and an Industria
 * 📐 **[Device-Agnostic Design (Dart/Flutter)](https://device-agnostic.web.app/)**
     *Exploratory repository tackling multi-device screen adaptation and cross-platform UI challenges using Flutter.*
 
-### 🎮 Beyond the Code
-I don't just stare at screens. I believe the best digital experiences are inspired by the physical world. 
-* 🏍️ **Passions:** I love riding motorcycles, exercising in the gym, and reading (always making time for good manga).
-* 🤝 **Vibe:** Highly empathetic, pragmatically curious, and with a solid sense of humor. 
-
 ### 📫 Let's Connect
 * **Portfolio & Case Studies:** [manuelhortelano.com](https://manuelhortelano.com)
 * **LinkedIn:** [in/manuel-hortelano-rodriguez](https://www.linkedin.com/in/manuel-hortelano-rodriguez/)
